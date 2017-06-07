@@ -1,0 +1,158 @@
+<application>
+  <component name="GrepConsole">
+    <option name="profiles">
+      <list>
+        <Profile>
+          <option name="defaultProfile" value="true" />
+          <option name="enableAnsiColoring" value="true" />
+          <option name="enabledInputFiltering" value="false" />
+          <option name="grepExpressionGroups">
+            <list>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="bc448e52-3a1b-4b94-9bcd-32942cc89df8" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-39836" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-39836" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="5412ef57-5746-41df-a431-344d64d550c1" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=" ERROR " />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="08fb3dfa-91f2-4f00-8a69-d4aabe93ee34" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-6329600" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-39836" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="81205062-73c4-45e5-8c40-ebfd161816b6" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=" WARN " />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="dc5d16af-5727-445f-8f75-00cd31524266" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-7697920" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4216832" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="537dd45e-451e-4803-bf7f-5cbf6ab9041b" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=" DEBUG " />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="629440a3-a177-4a67-928a-6c006cf900a0" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="3dd849fa-d273-4f69-9959-d8c4c4c2bd4f" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=" TRACE " />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="749d58f8-a60a-43d9-85cf-e2bed532c8c9" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-7697782" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="b941616d-1bc6-4204-aab1-0643437f9202" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=" INFO " />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="71c80ad3-1cd8-4420-bbf6-f316e3a384e0" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14440704" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2d3c32b5-283e-403f-80cb-cb74c39cc64d" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="name" value="new" />
+              </GrepExpressionGroup>
+            </list>
+          </option>
+          <option name="hideAnsiCommands" value="true" />
+          <option name="id" value="1452068278692" />
+          <option name="maxLengthToMatch" value="20" />
+        </Profile>
+      </list>
+    </option>
+  </component>
+</application>
