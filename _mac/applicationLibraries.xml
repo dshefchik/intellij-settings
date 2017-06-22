@@ -1,11 +1,12 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6.1 (/usr/local/bin/python3) interpreter library">
+    <library name="Python 3.6.1 virtualenv at ~/work/passport-airflow/venv interpreter library">
       <CLASSES>
+        <root url="file://$USER_HOME$/work/passport-airflow/venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/work/passport-airflow/venv/lib/python3.6/lib-dynload" />
         <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/1437855905" />
+        <root url="file://$USER_HOME$/work/passport-airflow/venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-237675098" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
@@ -18,10 +19,11 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$USER_HOME$/work/passport-airflow/venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/work/passport-airflow/venv/lib/python3.6/lib-dynload" />
         <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/1437855905" />
+        <root url="file://$USER_HOME$/work/passport-airflow/venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-237675098" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
