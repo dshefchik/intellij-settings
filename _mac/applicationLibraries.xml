@@ -1,5 +1,112 @@
 <application>
   <component name="libraryTable">
+    <library name="did_you_mean (v1.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.5, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/2.4.0/io" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/cgi" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/drb" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/irb" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/net" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rss" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/uri" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/json" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/racc" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rdoc" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/yaml" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/psych" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rexml" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rinda" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/shell" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/digest" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/fiddle" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/matrix" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/ripper" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/syslog" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/openssl" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/webrick" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/optparse" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rbconfig" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rubygems" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/forwardable" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/x86_64-darwin16" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/2.4.0/io" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/cgi" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/drb" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/irb" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/net" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rss" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/uri" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/json" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/racc" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rdoc" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/yaml" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/psych" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rexml" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rinda" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/shell" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/digest" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/fiddle" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/matrix" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/ripper" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/syslog" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/openssl" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/webrick" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/optparse" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rbconfig" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/rubygems" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/bigdecimal" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/forwardable" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/x86_64-darwin16" />
+        <root url="file:///usr/local/lib/ruby/2.4.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.5, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7.10 (/usr/bin/python) interpreter library">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
@@ -175,6 +282,30 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.1.5, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/Cellar/ruby@2.3/2.3.4_1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
   </component>
