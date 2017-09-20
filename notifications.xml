@@ -4,9 +4,8 @@
     <notification groupId="Debugger messages" shouldLog="false" />
     <notification groupId="Find in Path" shouldLog="false" />
     <notification groupId="Flash app not compiled before launch" shouldLog="false" />
-    <notification groupId="InstantRun" />
+    <notification groupId="Framework Detection" displayType="NONE" />
     <notification groupId="Mvc notifications" />
-    <notification groupId="notification.group.id.gradle" />
     <notification groupId="Vcs Messages" />
     <notification groupId="Web Deployment: Remote Host" shouldLog="false" />
   </component>
