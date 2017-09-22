@@ -1,20 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="" />
-    <EXCLUDED_PACKAGE NAME="jdk.nashhorn.*" />
-    <EXCLUDED_PACKAGE NAME="org.apache.log4j" />
-    <EXCLUDED_PACKAGE NAME="org.apache.poi.ss.formula.functions.T" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-  </component>
   <component name="PythonFoldingSettings">
     <option name="COLLAPSE_LONG_STRINGS" value="true" />
   </component>
