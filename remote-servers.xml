@@ -11,8 +11,16 @@
               <option name="virtualMachinePath" value="/Users" />
             </DockerPathMappingImpl>
             <DockerPathMappingImpl>
-              <option name="localPath" value="/tmp" />
-              <option name="virtualMachinePath" value="/root" />
+              <option name="localPath" value="$USER_HOME$/work/pdh-forks/pdh-application-cucumber-tests" />
+              <option name="virtualMachinePath" value="/root/workspace" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="/private/tmp/ruby" />
+              <option name="virtualMachinePath" value="/usr/local/bundle" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/.aws" />
+              <option name="virtualMachinePath" value="/root/.aws" />
             </DockerPathMappingImpl>
           </list>
         </option>
