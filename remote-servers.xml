@@ -11,7 +11,7 @@
               <option name="virtualMachinePath" value="/Users" />
             </DockerPathMappingImpl>
             <DockerPathMappingImpl>
-              <option name="localPath" value="$USER_HOME$/work/pdh-forks/pdh-application-cucumber-tests" />
+              <option name="localPath" value="~/" />
               <option name="virtualMachinePath" value="/root/workspace" />
             </DockerPathMappingImpl>
             <DockerPathMappingImpl>
