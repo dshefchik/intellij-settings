@@ -225,6 +225,37 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/cucumber_lint-0.1.2/features" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta10, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.11, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-ruby_core_source-0.9.11/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-ruby_core_source-0.9.11/lib" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.1.0, docker:ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/did_you_mean-1.1.0/lib" />
@@ -822,6 +853,19 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.49.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.49.1/assets" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.49.1/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta9, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.3, ruby-2.4.2-p198) [gem]">
