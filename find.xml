@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="pdh-cucumber-core" />
+    <option name="defaultScopeName" value="pdh-cucumber-core" />
+    <option name="SEARCH_SCOPE" value="pdh-cucumber-core" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
