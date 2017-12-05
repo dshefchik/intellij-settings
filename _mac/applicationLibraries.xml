@@ -68,6 +68,24 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-partitions-1.32.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.44.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-partitions-1.44.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-partitions-1.44.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.11.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v3.6.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.6.0/lib" />
@@ -718,6 +736,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/parser-2.4.0.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/parser-2.4.0.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.4.1, docker:ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/power_assert-0.4.1/lib" />
@@ -943,6 +972,19 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.1.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.1.0/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v2.0.2, ruby-2.4.2-p198) [gem]">
@@ -1173,6 +1215,17 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.15.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.15.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="tins (v1.16.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.0/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.0/tests" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, ruby-2.4.2-p198) [gem]">
