@@ -77,6 +77,15 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-partitions-1.44.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.45.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-partitions-1.45.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-partitions-1.45.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v3.0.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/aws-sdk-3.0.1/lib" />
@@ -2337,6 +2346,21 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.49.1/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.51.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/assets" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/assets" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.51.0/bin" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
@@ -2456,6 +2480,17 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="tins (v1.16.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.3/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/tins-1.16.3/tests" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, ruby-2.4.2-p198) [gem]">
