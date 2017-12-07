@@ -1359,6 +1359,11 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
+    <library name="bundle (v0.0.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.15.4, docker:ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/bundler-1.15.4/bin" />
@@ -1408,6 +1413,19 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bundler-1.15.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bundler-1.15.4/man" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bundler-1.15.4/task" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.16.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/man" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/man" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib" />
       </SOURCES>
     </library>
     <library name="colorize (v0.7.7, ruby-2.4.2-p198) [gem]">
