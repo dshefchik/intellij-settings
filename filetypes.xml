@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
       <mapping pattern="ping_cert" type="PLAIN_TEXT" />
       <mapping pattern="data" type="YAML" />
     </extensionMap>
