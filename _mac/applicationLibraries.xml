@@ -2058,6 +2058,32 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.25.3/data" />
       </SOURCES>
     </library>
+    <library name="pdh_cucumber_common (v0.2.26.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.26.3/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.26.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.26.3/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.26.3/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.26.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.26.3/config" />
+      </SOURCES>
+    </library>
+    <library name="pdh_cucumber_common (v0.2.27.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.27.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.27.3/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.27.3/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.27.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.27.3/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/pdh_cucumber_common-0.2.27.3/config" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.4.1, docker:ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/power_assert-0.4.1/lib" />
