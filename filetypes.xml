@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Jenkinsfile-elevated" type="Groovy" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
