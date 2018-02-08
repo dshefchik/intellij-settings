@@ -3,12 +3,13 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
-      <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
+      <mapping pattern="plan" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="ping_cert" type="PLAIN_TEXT" />
-      <mapping pattern="test_cft_migration" type="Python" />
       <mapping pattern="apply_cloudformation" type="Python" />
+      <mapping pattern="test_cft_migration" type="Python" />
       <mapping pattern="data" type="YAML" />
     </extensionMap>
   </component>
