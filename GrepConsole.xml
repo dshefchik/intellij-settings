@@ -4,7 +4,6 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
-          <option name="enableAnsiColoring" value="true" />
           <option name="enabledInputFiltering" value="false" />
           <option name="grepExpressionGroups">
             <list>
@@ -148,9 +147,9 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="hideAnsiCommands" value="true" />
           <option name="id" value="1452068278692" />
           <option name="maxLengthToMatch" value="20" />
+          <option name="name" value="default" />
         </Profile>
       </list>
     </option>
