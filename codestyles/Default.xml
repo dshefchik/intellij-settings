@@ -1,3 +1,13 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+  </HCL-Terraform>
+  <JSON>
+    <option name="KEEP_TRAILING_COMMA" value="true" />
+  </JSON>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
