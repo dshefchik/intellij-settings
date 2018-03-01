@@ -1,8 +1,5 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <HCL-Terraform>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
-  </HCL-Terraform>
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
   </JSON>
