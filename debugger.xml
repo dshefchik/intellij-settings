@@ -94,6 +94,8 @@
       </debugger>
       <debugger id="ruby">
         <configuration>
+          <option name="evaluationControl" value="false" />
+          <option name="multiprocess" value="false" />
           <option name="readNonSuspendedFrames" value="false" />
         </configuration>
       </debugger>
