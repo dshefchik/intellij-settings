@@ -336,6 +336,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/cucumber_lint-0.1.2/bin" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta10/ext" />
@@ -356,6 +367,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debase-0.2.2.beta14/ext" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.11, ruby-2.4.2-p198) [gem]">
@@ -1376,6 +1396,19 @@
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.53.0/assets" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.53.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rubocop-0.53.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta12, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, ruby-2.4.2-p198) [gem]">
