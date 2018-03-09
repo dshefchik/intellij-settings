@@ -422,6 +422,19 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/did_you_mean-1.1.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.1.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="diff (v0.3.6, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/diff-0.3.6/lib" />
@@ -827,6 +840,15 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.11.3, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/minitest-5.11.3/lib" />
@@ -894,6 +916,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
       </SOURCES>
     </library>
     <library name="netrc (v0.11.0, ruby-2.4.2-p198) [gem]">
@@ -966,6 +999,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/power_assert-0.4.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/power_assert-0.4.1/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.4.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/benchmarks" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/benchmarks" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.4.2-p198) [gem]">
@@ -1272,6 +1316,19 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.0.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.3.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/rake-12.3.0/lib" />
@@ -1411,6 +1468,19 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ruby-debug-ide-0.6.1.beta12/ext" />
       </SOURCES>
     </library>
+    <library name="ruby-oci8 (v2.2.5.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-oci8/2.2.5.1" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ruby-oci8-2.2.5.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ruby-oci8-2.2.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-oci8/2.2.5.1" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ruby-oci8-2.2.5.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ruby-oci8-2.2.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.9.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.9.0/lib" />
@@ -1475,6 +1545,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/test-unit-3.2.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/test-unit-3.2.3/sample" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.2.3, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, ruby-2.4.2-p198) [gem]">
@@ -1572,6 +1653,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/xmlrpc-0.2.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-1792661184/-472249588/gems/xmlrpc-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="xmlrpc (v0.2.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.3_1/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
       </SOURCES>
     </library>
   </component>
