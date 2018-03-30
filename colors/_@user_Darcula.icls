@@ -4,7 +4,7 @@
     <property name="created">2017-06-08T11:38:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-11-08T10:09:59</property>
+    <property name="modified">2018-03-02T13:52:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -21,5 +21,6 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="RUBY_SPECIFIC_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
   </attributes>
 </scheme>

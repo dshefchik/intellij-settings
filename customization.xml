@@ -1,5 +1,77 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ROR_TOOLS" is_group="true" action_type="-1" position="36">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CAPISTRANO_TOOLS" is_group="true" action_type="-1" position="35">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Google App Engine" is_group="true" action_type="-1" position="32">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IpnbConvertFromPythonAction" is_action="true" action_type="-1" position="30">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Django" is_group="true" action_type="-1" position="28">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RemoteExternalToolsGroup" is_group="true" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.intellij.play.console.RunPlayConsoleAction" is_action="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Mvc.Actions" is_group="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Groovy.Shell" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Bash.REPL.Group" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PublishGroup" is_group="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="org.jetbrains.plugins.ruby.gem.util.ShowGemEnvironmentAction" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Main menu" />
@@ -19,6 +91,13 @@
       <path value="Main menu" />
       <path value="Tools" />
       <path value="Ruby Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScriptsRails" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="Extensions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
@@ -54,6 +133,12 @@
       <path value="Main menu" />
       <path value="Tools" />
       <path value="Ruby Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Groovy.Shell" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
