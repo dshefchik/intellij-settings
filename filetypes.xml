@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="bats" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
