@@ -5,7 +5,6 @@
       <mapping pattern="Jenkinsfile*" type="Groovy" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
-      <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="ping_cert" type="PLAIN_TEXT" />
       <mapping pattern="apply_cloudformation" type="Python" />
