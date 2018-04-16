@@ -808,6 +808,17 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/dry-validation-0.11.1/log" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-api (v6.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/elasticsearch-api-6.0.2/utils" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/elasticsearch-api-6.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/elasticsearch-api-6.0.2/utils" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/elasticsearch-api-6.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="engtagger (v0.2.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/engtagger-0.2.1/lib" />
