@@ -85,18 +85,18 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="ruby">
+      <debugger id="kotlin_debugger">
         <configuration>
-          <option name="evaluationControl" value="false" />
-          <option name="multiprocess" value="false" />
-          <option name="readNonSuspendedFrames" value="false" />
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
