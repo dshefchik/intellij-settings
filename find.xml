@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="File '.../pdh-common/src/main/java/com/nike/pes/dataUnits/service/DomainLinkResolutionServiceImpl.java [pdh-common_main]'" />
+    <option name="defaultScopeName" value="File '.../pdh-common/src/main/java/com/nike/pes/dataUnits/service/DomainLinkResolutionServiceImpl.java [pdh-common_main]'" />
     <option name="regularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="File '.../pdh-common/src/main/java/com/nike/pes/dataUnits/service/DomainLinkResolutionServiceImpl.java [pdh-common_main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
