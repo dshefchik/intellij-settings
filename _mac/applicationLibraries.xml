@@ -1630,6 +1630,41 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 (pdh-yASfEzF4) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-yASfEzF4/lib/python2.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-yASfEzF4/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-yASfEzF4/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-123640642" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-yASfEzF4/lib/python2.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-yASfEzF4/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-yASfEzF4/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-123640642" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (pdh-cli-IEZv10cR) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/pdh-cli-IEZv10cR/lib/python3.6" />
@@ -1689,43 +1724,6 @@
         <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
         <root url="file://$USER_HOME$/.local/share/virtualenvs/pdh-sandbox-B0FNglrs/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/242097850" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (venv) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/work/pdh/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/work/pdh/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/work/pdh/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.3/python_stubs/-123158299" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/work/pdh/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/work/pdh/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/work/pdh/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.3/python_stubs/-123158299" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
