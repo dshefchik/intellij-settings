@@ -353,9 +353,13 @@
       </SOURCES>
     </library>
     <library name="bundler (v1.16.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES />
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+      </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+      </SOURCES>
     </library>
     <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
@@ -579,24 +583,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="debase (v0.2.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.10.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-ruby_core_source-0.10.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-ruby_core_source-0.10.2/lib" />
-      </SOURCES>
-    </library>
     <library name="deep_merge (v1.2.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/deep_merge-1.2.1/lib" />
@@ -674,15 +660,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="did_you_mean (v1.2.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="diff (v0.3.6, ruby-2.5.1-p57 [homebrew]) [gem]">
@@ -870,15 +847,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/dry-validation-0.11.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="elasticsearch-api (v6.0.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/elasticsearch-api-6.0.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/elasticsearch-api-6.0.2/lib" />
       </SOURCES>
     </library>
     <library name="engtagger (v0.2.1, ruby-2.5.1-p57 [homebrew]) [gem]">
@@ -1233,15 +1201,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v5.10.3, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
-      </SOURCES>
-    </library>
     <library name="minitest (v5.11.3, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib" />
@@ -1398,15 +1357,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
       </SOURCES>
     </library>
-    <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
-      </SOURCES>
-    </library>
     <library name="netrc (v0.11.0, ruby-2.5.1-p57 [homebrew]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/netrc-0.11.0/data" />
@@ -1520,15 +1470,6 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
-      </SOURCES>
-    </library>
-    <library name="power_assert (v1.1.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.5.1-p57) [gem]">
@@ -1809,11 +1750,11 @@
     </library>
     <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
     <library name="rdoc (v6.0.1, ruby-2.5.1-p57 [homebrew]) [gem]">
@@ -1991,17 +1932,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/ruby-debug-ide-0.7.0.beta3/lib" />
       </SOURCES>
     </library>
-    <library name="ruby-oci8 (v2.2.5.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-oci8-2.2.5.1/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-oci8-2.2.5.1/ext/oci8" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-oci8-2.2.5.1/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-oci8-2.2.5.1/ext/oci8" />
-      </SOURCES>
-    </library>
     <library name="ruby-progressbar (v1.9.0, ruby-2.5.1-p57 [homebrew]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.9.0/lib" />
@@ -2148,15 +2078,6 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, ruby-2.4.2-p198) [gem]">
@@ -2379,15 +2300,6 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
-      </SOURCES>
-    </library>
-    <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]">
