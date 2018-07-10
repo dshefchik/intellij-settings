@@ -80,11 +80,13 @@
     </library>
     <library name="amatch (v0.4.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/amatch/0.4.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/ext" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/amatch/0.4.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/ext" />
       </SOURCES>
@@ -959,10 +961,12 @@
     </library>
     <library name="gherkin (v2.12.2, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gherkin/2.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gherkin/2.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/lib" />
       </SOURCES>
     </library>
