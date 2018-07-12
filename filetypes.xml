@@ -9,6 +9,7 @@
       <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="ping_cert" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping pattern="apply_cloudformation" type="Python" />
       <mapping pattern="test_cft_migration" type="Python" />
       <mapping pattern="data" type="YAML" />
