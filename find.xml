@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java,*.groovy,*.json" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,10 +16,10 @@
     <mask>*.mxml</mask>
     <mask>*.rb,*.feature</mask>
     <mask>*.tf</mask>
-    <mask>*.java</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.java,*.groovy,*.rb</mask>
     <mask>*.java,*.groovy,*.rb,!*_spec.rb</mask>
     <mask>*.java,*.groovy,*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
