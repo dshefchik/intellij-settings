@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="myscript" type="Bash" />
+      <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
+      <mapping pattern="ping_cert" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="asdas" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping pattern="test_cft_migration" type="Python" />
+      <mapping pattern="apply_cloudformation" type="Python" />
+      <mapping pattern="template" type="VTL" />
+      <mapping pattern="data" type="YAML" />
       <mapping ext="bats" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="Jenkinsfile*" type="Groovy" />
-      <mapping pattern="asdas" type="PLAIN_TEXT" />
-      <mapping pattern="cukes_tasks.rb" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="ping_cert" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping pattern="apply_cloudformation" type="Python" />
-      <mapping pattern="test_cft_migration" type="Python" />
-      <mapping pattern="data" type="YAML" />
+      <mapping pattern="myscript" type="Bash" />
     </extensionMap>
   </component>
 </application>
