@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="activesupport (v5.1.5, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
