@@ -20,5 +20,6 @@
     <mask>*.java,*.groovy,*.rb,!*_spec.rb</mask>
     <mask>*.java,*.groovy,*.json</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
