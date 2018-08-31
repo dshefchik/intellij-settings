@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,12 +17,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.rb,*.feature</mask>
-    <mask>*.tf</mask>
     <mask>*.java,*.groovy</mask>
     <mask>*.java,*.groovy,*.rb</mask>
     <mask>*.java,*.groovy,*.rb,!*_spec.rb</mask>
     <mask>*.java,*.groovy,*.json</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
