@@ -1279,6 +1279,31 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-0.3.1/bin" />
       </excluded>
     </library>
+    <library name="gherkin_lint (v1.2.2, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin_lint-1.2.2/config" />
+      </excluded>
+    </library>
     <library name="http-cookie (v1.0.3, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
