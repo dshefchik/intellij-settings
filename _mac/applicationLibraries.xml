@@ -428,26 +428,6 @@
         <root url="file:///usr/local/lib/ruby/2.5.0/bundler/compact_index_client" />
       </excluded>
     </library>
-    <library name="bundler (v1.16.5, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/exe" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/exe" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/exe" />
-        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.5/man" />
-      </excluded>
-    </library>
     <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
