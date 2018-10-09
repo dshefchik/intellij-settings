@@ -1189,7 +1189,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gherkin/2.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/lib" />
@@ -1201,7 +1200,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gherkin/2.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/lib" />
