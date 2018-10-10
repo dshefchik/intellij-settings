@@ -1431,6 +1431,23 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
       </excluded>
     </library>
+    <library name="jaro_winkler-1.5.1-x86_64-darwin (v1.5.1, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
+      </excluded>
+    </library>
     <library name="jmespath (v1.3.1, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
