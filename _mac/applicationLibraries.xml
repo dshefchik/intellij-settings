@@ -156,6 +156,18 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.29.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.30.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.30.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.30.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-dynamodb (v1.12.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1321,6 +1333,40 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/http-cookie-1.0.3/test" />
       </excluded>
     </library>
+    <library name="httparty (v0.16.2, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/docs" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/script" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/website" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/examples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/docs" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/script" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/website" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/examples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/docs" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/script" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/website" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/httparty-0.16.2/examples" />
+      </excluded>
+    </library>
     <library name="i18n (v0.9.5, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1419,11 +1465,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -1692,6 +1740,18 @@
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_test-0.1.2/test" />
       </excluded>
+    </library>
+    <library name="multi_xml (v0.6.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
