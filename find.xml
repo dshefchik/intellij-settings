@@ -7,6 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,9 +21,9 @@
     <mask>*.java,*.groovy,*.rb</mask>
     <mask>*.java,*.groovy,*.rb,!*_spec.rb</mask>
     <mask>*.java,*.groovy,*.json</mask>
-    <mask>*.tf</mask>
     <mask>*.json</mask>
     <mask>*.rb</mask>
     <mask>*.java</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
