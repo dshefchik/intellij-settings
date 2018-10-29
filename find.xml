@@ -20,8 +20,8 @@
     <mask>*.java,*.groovy,*.rb,!*_spec.rb</mask>
     <mask>*.java,*.groovy,*.json</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.tf</mask>
     <mask>*.rb</mask>
+    <mask>*.java</mask>
   </component>
 </application>
