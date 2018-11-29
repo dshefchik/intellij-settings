@@ -190,6 +190,18 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-dynamodb-1.13.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kms (v1.11.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-kms (v1.5.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -224,6 +236,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-lambda-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lambda (v1.13.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-lambda-1.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/aws-sdk-lambda-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-lambda (v1.4.0, ruby-2.5.1-p57) [gem]" type="rubylib">
