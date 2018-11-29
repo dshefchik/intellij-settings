@@ -57,7 +57,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/amatch/0.4.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/lib" />
@@ -66,7 +65,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/amatch/0.4.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/amatch-0.4.0/lib" />
@@ -398,46 +396,17 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ui" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/cli" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/plugin" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/source" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/vendor" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/fetcher" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/resolver" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/settings" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/installer" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ssl_certs" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/templates" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/compact_index_client" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ui" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/cli" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/plugin" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/source" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/vendor" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/fetcher" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/resolver" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/settings" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/installer" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ssl_certs" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/templates" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/compact_index_client" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ui" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/cli" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/plugin" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/source" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/fetcher" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/resolver" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/settings" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/installer" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/ssl_certs" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/templates" />
-        <root url="file:///usr/local/lib/ruby/2.5.0/bundler/compact_index_client" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
       </excluded>
     </library>
     <library name="bundler (v1.16.6, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -720,19 +689,19 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/debase-0.2.2/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/debase-0.2.2/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.3.beta2, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -789,25 +758,25 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </excluded>
     </library>
     <library name="diff (v0.3.6, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1201,7 +1170,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gherkin/2.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/lib" />
@@ -1213,7 +1181,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/gherkin/2.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/gherkin-2.12.2/lib" />
@@ -1465,13 +1432,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -1651,16 +1616,16 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </excluded>
     </library>
     <library name="minitest (v5.11.3, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1758,16 +1723,16 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
       </excluded>
     </library>
     <library name="netrc (v0.11.0, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1871,16 +1836,16 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
       </excluded>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -2116,22 +2081,22 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.1, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -2395,6 +2360,26 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/config" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.6.1, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/ext" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.7.0.beta3, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2576,22 +2561,22 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </excluded>
     </library>
     <library name="thread_safe (v0.3.6, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -2777,16 +2762,16 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
       </excluded>
     </library>
     <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]" type="rubylib">
